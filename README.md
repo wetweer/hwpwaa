@@ -159,5 +159,5 @@ self.addEventListener('fetch', (event) => {
       return response || fetch(event.request);
     })
   );
-});C:\Users\momoa\Desktop\PWA Project\2017-mercedes-benz-cls-class-amg-63-sedan-angular-front.png
+});
 
